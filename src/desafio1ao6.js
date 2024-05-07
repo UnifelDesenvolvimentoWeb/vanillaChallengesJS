@@ -40,6 +40,7 @@ function invertElementsArray(array) {
   }
   return newArray
 }
+
 // Desafio 5
 //  Escreva um código que recebe uma string por parâmetro e imprima a sua versão invertida.
 function invertString(string) {
@@ -48,6 +49,7 @@ function invertString(string) {
     stringInvertida += string[i]
   } return stringInvertida
 }
+
 // Desafio 6
 // Escreva um código que receba um array de números por parâmetro e retorne
 // o array com os elementos duplicados removidos.
