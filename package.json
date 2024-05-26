@@ -7,5 +7,9 @@
   },
   "jest": {
     "rootDir": "./tests/"
+  },
+  "dependencies": {
+    "npm": "^10.8.0",
+    "test": "^3.3.0"
   }
 }
